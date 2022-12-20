@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rahul730vcpl/testGithub#readme",
   "dependencies": {
+    "axios": "^1.2.1",
     "express": "^4.18.2",
     "jsx": "^0.9.89",
     "q": "^1.5.1"
