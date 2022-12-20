@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rahul730vcpl/testGithub#readme",
   "dependencies": {
+    "body-parser": "^1.20.1",
     "standard": "^17.0.0"
   }
 }
